@@ -47,7 +47,7 @@ Students are expected to attend all classes, participate actively, complete and 
 - Final Project: 40%
 - Final Exam: 30%
 
-For further details on the course schedule and grading, please refer to the [detailed course syllabus](https://github.com/sophalITC/Big_data_course-/tree/main).
+For further details on the course schedule and grading, please refer to the [detailed course syllabus](https://github.com/sophalITC/Data-Visualization-using-Power-BI/tree/main)
 
 Thank you for choosing this course to enhance your understanding of data visualization. We are excited to support your learning journey!
 
