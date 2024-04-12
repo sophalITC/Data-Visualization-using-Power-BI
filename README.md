@@ -51,4 +51,4 @@ For further details on the course schedule and grading, please refer to the [det
 
 Thank you for choosing this course to enhance your understanding of data visualization. We are excited to support your learning journey!
 
-@copy;  CHAN Sophal
+&copy;  CHAN Sophal
